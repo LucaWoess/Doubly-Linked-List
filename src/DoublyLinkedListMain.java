@@ -5,8 +5,13 @@ public class DoublyLinkedListMain {
 		woess.addElementLastPlace(7);
 		woess.addElementLastPlace(7);
 		woess.addElementLastPlace(77);
-		woess.addElementFirstPlace(55);
-		woess.deleteSpecificElement(10);
+		woess.swapElement(0,3);
+		woess.swapElement(0,3);
+		//woess.addElementFirstPlace(55);
+		//woess.deleteElementLastPlace();
+		//woess.deleteElementFirstPlace();
+		//woess.deleteSpecificElement(1);
+		//woess.addElementSpecificPlace(1,4);
 		woess.writeList();
 	}
 
